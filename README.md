@@ -9,8 +9,6 @@ Python Mastery Roadmap 🚀
   Learn Python from <b>basic to advanced</b> and build a strong foundation for <b>AI/ML</b>, <b>Data Science</b>, and <b>Backend Development</b>.
 </p>
 
-⸻
-
 📌 About This Repository
 
 This repository is my personal learning journey and structured roadmap to master Python step by step.
@@ -24,7 +22,6 @@ It is designed to help me:
 * Learn backend development using Python
 * Build real-world projects with confidence
 
-⸻
 
 🎯 What I Want to Achieve
 
@@ -37,7 +34,6 @@ By the end of this roadmap, I want to be able to:
 * Build REST APIs and backend systems
 * Deploy projects in a practical, industry-ready way
 
-⸻
 
 🧭 Learning Roadmap
 
@@ -112,24 +108,6 @@ By the end of this roadmap, I want to be able to:
 * Validation with Pydantic
 * Deployment basics
 
-⸻
-
-📁 Repository Structure
-
-python-learning-roadmap/
-│
-├── 01_basics/
-├── 02_intermediate/
-├── 03_advanced/
-├── 04_dsa/
-├── 05_ai_ml/
-├── 06_backend/
-├── projects/
-├── notes/
-└── README.md
-
-⸻
-
 🛠️ Tools & Technologies
 
 <p align="left">
@@ -144,7 +122,6 @@ python-learning-roadmap/
   <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-⸻
 
 🚧 Projects I Plan to Build
 
@@ -158,7 +135,6 @@ python-learning-roadmap/
 * REST API with authentication
 * Full backend project with database
 
-⸻
 
 ✅ My Learning Approach
 
@@ -169,7 +145,6 @@ python-learning-roadmap/
 * Build mini projects regularly
 * Improve the same project step by step
 
-⸻
 
 🔥 Why This Repo Matters
 
@@ -182,7 +157,6 @@ It is my foundation for becoming:
 * A problem solver
 * A job-ready software developer
 
-⸻
 
 🌱 Mindset
 
@@ -192,22 +166,17 @@ Small daily progress creates big results.
 
 Learn deeply, build often, and keep improving.
 
-⸻
 
 🤝 Contribution
 
 This repository is mainly for my learning, but suggestions, improvements, and ideas are always welcome.
 
-⸻
 
 ⭐ Support
 
 If this roadmap helps you or inspires your learning journey, consider starring the repository.
 
-⸻
 
 <p align="center">
   <b>Built with focus, consistency, and the goal of becoming industry-ready.</b>
 </p>
-
-# E
